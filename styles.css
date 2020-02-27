@@ -1,18 +1,25 @@
-p { color: red; 
+.first-box-container {
+width: 200px;
+height: 100px;
+position: absolute;
+background-color: red;
 }
 
-h1  {color: blue; 
- }
-
-h2 {color: red;
+.second-box-container {
+width: 200px;
+height: 100px;
+left: 250px;
+position: absolute;
+background-color: yellow;
 }
 
-h3 {color: red;
+.third-box-container {
+width: 200px;
+height: 100px;
+left: 500px;
+position: absolute;
+background-color: green;
 }
-
-li {color: pink; 
-}
-
 
 
 
