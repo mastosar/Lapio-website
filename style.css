@@ -1,18 +1,31 @@
-p { color: red; 
+p { color: #555; 
 }
 
-h1  {color: blue; 
+h1  {color:#191970; 
  }
 
-h2 {color: red;
+h2 {color: #B22222;
+margin-top: 1em;
+padding-top: 1em;
 }
 
-h3 {color: red;
+h3 {color: #B22222;
+margin-top: 2em;
+padding-top: 2em;
 }
 
-li {color: pink; 
+li {color: #555; 
 }
 
+body {
+margin: 0 auto;
+max-width: 50em;
+font-family: 'Helvetica';
+line-height: 1.5;
+padding: 4em 1em;
+}
 
-
+background {
+color: #DCDCDC
+}
 
